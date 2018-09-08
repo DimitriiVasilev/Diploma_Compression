@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\bin\Debug\BoundedRanges.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\bin\Debug\BoundedRanges.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\obj\Debug\BoundedRanges.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\obj\Debug\BoundedRanges.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\obj\Debug\BoundedRanges.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\obj\Debug\BoundedRanges.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BoundedRanges\obj\Debug\BoundedRanges.pdb

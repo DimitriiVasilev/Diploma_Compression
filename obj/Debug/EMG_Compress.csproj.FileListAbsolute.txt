@@ -1,0 +1,37 @@
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\bin\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\bin\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\obj\Debug\EMG_Compress.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\obj\Debug\CompressV2.Form1.resources
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\obj\Debug\BoundedRanges.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\obj\Debug\EMG_Compress.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\obj\Debug\EMG_Compress.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\obj\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V2 — копия\BoundedRanges\obj\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\bin\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\bin\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\obj\Debug\EMG_Compress.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\obj\Debug\CompressV2.Form1.resources
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\obj\Debug\BoundedRanges.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\obj\Debug\EMG_Compress.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\obj\Debug\EMG_Compress.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\obj\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V3\BoundedRanges\obj\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\bin\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\bin\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\obj\Debug\EMG_Compress.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\obj\Debug\CompressV2.Form1.resources
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\obj\Debug\BoundedRanges.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\obj\Debug\EMG_Compress.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\obj\Debug\EMG_Compress.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\obj\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V4\BoundedRanges\obj\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\bin\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\bin\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\CompressV2.Form1.resources
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\BoundedRanges.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\EMG_Compress.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\EMG_Compress.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\EMG_Compress.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\V5\BoundedRanges\obj\Debug\EMG_Compress.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\bin\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\bin\Debug\BoundedRanges.pdb
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\obj\Debug\BoundedRanges.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\obj\Debug\BoundedRanges.Form1.resources
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\obj\Debug\BoundedRanges.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\obj\Debug\BoundedRanges.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\obj\Debug\BoundedRanges.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\obj\Debug\BoundedRanges.exe
+C:\Users\Dmitry\source\repos\V2\BoundedRanges\obj\Debug\BoundedRanges.pdb
